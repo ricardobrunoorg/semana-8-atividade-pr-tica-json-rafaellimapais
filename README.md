@@ -5,15 +5,16 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:rafael lima pais
+- Matricula:928393
 
 ## Prints do console do navegador
 
 <<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
-
+![Listagem de Títulos](./primeiraimagem.png)
 <<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
-
+![Cálculo de Médias](./segundaimagem.png)
 <<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
-
+![Resumo de Verificações](./terceiraimagem.png)
 <<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+![Página com o Resumo](./quartaimagem.png)
